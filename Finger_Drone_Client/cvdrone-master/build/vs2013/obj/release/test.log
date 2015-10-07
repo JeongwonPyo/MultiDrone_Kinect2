@@ -1,0 +1,82 @@
+﻿빌드 시작: 2015-10-07 오후 2:13:45
+     1>2 노드의 "C:\Users\Administrator\Desktop\Finger_Drone_1.9[Dual_Client_Marker_Tracking_Fixed_Log]\cvdrone-master\build\vs2013\test.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\..\src\3rdparty\pthread\include /I..\..\src\3rdparty\glut\include /IC:\opencv\build\include /I"C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\\inc" /I..\..\src\3rdparty\ffmpeg\include /Zi /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NOMINMAX /D NDEBUG /D _CONSOLE /D __STDC_CONSTANT_MACROS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\obj\release\\" /Fd".\obj\release\vc120.pdb" /Gd /TP /wd4996 /wd4244 /analyze- /errorReport:prompt ..\..\src\kinect2.cpp
+         kinect2.cpp
+     1>C:\opencv\build\include\opencv2/core/mat.hpp(1413): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>..\..\src\kinect2.cpp(314): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(406): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(417): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(425): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(830): warning C4101: 'temp_Point' :참조되지 않은 지역 변수입니다.
+     1>..\..\src\kinect2.cpp(1567): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(1580): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2059): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2077): warning C4101: 'find' :참조되지 않은 지역 변수입니다.
+     1>..\..\src\kinect2.cpp(2104): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2226): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2248): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2250): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2273): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2275): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2298): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2317): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2343): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2365): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2367): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2390): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2394): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2425): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2459): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2471): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2524): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2526): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2540): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2584): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2600): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2602): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2691): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2696): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2770): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2782): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2910): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2939): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2945): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2973): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2975): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(2999): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(3066): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(3092): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(3268): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(3373): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(3397): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(3481): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(3497): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(3517): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(3529): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(3573): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(3614): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(3884): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>..\..\src\kinect2.cpp(4523): warning C4101: 'rct' :참조되지 않은 지역 변수입니다.
+     1>..\..\src\kinect2.cpp(4545): warning C4101: 'jointPoints' :참조되지 않은 지역 변수입니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\..\bin\vs2013\test.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\src\3rdparty\ffmpeg\lib /LIBPATH:..\..\src\3rdparty\pthread\lib /LIBPATH:..\..\src\3rdparty\glut\lib /LIBPATH:C:\opencv\mybuild\lib\Release /LIBPATH:C:\tbb43_20141023oss\lib\ia32\vc12 /LIBPATH:"C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\\lib\x86" wsock32.lib kinect20.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib opencv_calib3d300.lib opencv_core300.lib opencv_features2d300.lib opencv_flann300.lib opencv_highgui300.lib opencv_imgcodecs300.lib opencv_imgproc300.lib opencv_ml300.lib opencv_objdetect300.lib opencv_photo300.lib opencv_shape300.lib opencv_stitching300.lib opencv_superres300.lib opencv_ts300.lib opencv_video300.lib opencv_videoio300.lib opencv_videostab300.lib tbb.lib avcodec.lib avdevice.lib avfilter.lib avformat.lib avutil.lib swresample.lib swscale.lib pthreadVC2.lib glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:..\..\src\resource\test.exe.manifest /DEBUG /PDB:".\obj\release\release.pdb" /SUBSYSTEM:CONSOLE /STACK:"0","0" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\..\bin\vs2013\test.lib" /MACHINE:X86 /SAFESEH ws2_32.lib .\obj\release\resource.res
+         .\obj\release\ardrone.obj
+         .\obj\release\command.obj
+         .\obj\release\config.obj
+         .\obj\release\navdata.obj
+         .\obj\release\tcp.obj
+         .\obj\release\udp.obj
+         .\obj\release\version.obj
+         .\obj\release\video.obj
+         .\obj\release\kinect2.obj
+         .\obj\release\main.obj
+         코드를 생성하고 있습니다.
+     1>c:\users\administrator\desktop\finger_drone_1.9[dual_client_marker_tracking_fixed_log]\cvdrone-master\src\main.cpp(205): warning C4715: 'Auto_Calibration' : 모든 제어 경로에서 값을 반환하지는 않습니다.
+         코드를 생성했습니다.
+         test.vcxproj -> C:\Users\Administrator\Desktop\Finger_Drone_1.9[Dual_Client_Marker_Tracking_Fixed_Log]\cvdrone-master\build\vs2013\..\..\bin\vs2013\test.exe
+     1>"C:\Users\Administrator\Desktop\Finger_Drone_1.9[Dual_Client_Marker_Tracking_Fixed_Log]\cvdrone-master\build\vs2013\test.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:04.04
