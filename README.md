@@ -29,6 +29,8 @@ https://github.com/puku0x/cvdrone
   
   Run server project, after than run client project.
   
+  Please check visual studio release mode.
+  
   After than, Hands will be found. 
   
   You will see some windows 'Left_Show_Thres', 'Right_Show_Thres', 'Left_Show_debug', and 'Right_Show_debug'.
