@@ -3,7 +3,7 @@
 Copyright (C) 2015 Jeongwon Pyo
 https://github.com/JeongwonPyo/MultiDrone_Kinect2
 -----------------------------------------------------
-Based on puku0k's CV Drone
+Based on puku0x's CV Drone
 https://github.com/puku0x/cvdrone
 -----------------------------------------------------
 
