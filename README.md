@@ -7,7 +7,7 @@ Based on puku0k's CV Drone
 https://github.com/puku0x/cvdrone
 -----------------------------------------------------
 
-How to use
+#How to use
 
   Base install & use are same as CV Drone.
   
@@ -43,8 +43,10 @@ How to use
   
   Finger gestures can see in this video : https://youtu.be/qIlGc0pJSyk
   
+--------------------------------------------------------------------------------------------------------------
+  
 
-Finger gesture method based on the paper "Robust hand gesture recognition based on finger-earth mover's distance with a commodity depth camera".
+Finger gesture method based on the paper Ren at el."Robust hand gesture recognition based on finger-earth mover's distance with a commodity depth camera".
 
 But i made up simply.
 
