@@ -1,0 +1,1437 @@
+ID : 213	Degree : 88.090848
+Image Center Point : (321, 181)	Marker Point : (268, 86)
+vx : 0.524862	vy : 0.165109	vz : 0.000000	vr : 0.014849
+
+ID : 213	Degree : 88.505666
+Image Center Point : (321, 181)	Marker Point : (270, 93)
+vx : 0.486188	vy : 0.158879	vz : 0.000000	vr : 0.011623
+
+ID : 213	Degree : 0.996348
+Image Center Point : (321, 181)	Marker Point : (242, 97)
+vx : 0.464088	vy : 0.246106	vz : 0.000000	vr : -0.007749
+
+ID : 213	Degree : 2.063820
+Image Center Point : (321, 181)	Marker Point : (298, 154)
+vx : 0.149171	vy : 0.071651	vz : 0.000000	vr : -0.016052
+
+ID : 213	Degree : 2.602562
+Image Center Point : (321, 181)	Marker Point : (346, 158)
+vx : 0.127072	vy : -0.077882	vz : 0.000000	vr : -0.020242
+
+ID : 213	Degree : 87.420852
+Image Center Point : (321, 181)	Marker Point : (357, 167)
+vx : 0.077348	vy : -0.112150	vz : 0.000000	vr : 0.020060
+
+ID : 213	Degree : 87.420852
+Image Center Point : (321, 181)	Marker Point : (357, 171)
+vx : 0.055249	vy : -0.112150	vz : 0.000000	vr : 0.020060
+
+ID : 213	Degree : 86.877870
+Image Center Point : (321, 181)	Marker Point : (349, 177)
+vx : 0.022099	vy : -0.087227	vz : 0.000000	vr : 0.024283
+
+ID : 213	Degree : 86.905942
+Image Center Point : (321, 181)	Marker Point : (325, 176)
+vx : 0.027624	vy : -0.012461	vz : 0.000000	vr : 0.024065
+
+ID : 213	Degree : 87.420852
+Image Center Point : (321, 181)	Marker Point : (308, 175)
+vx : 0.033149	vy : 0.040498	vz : 0.000000	vr : 0.020060
+
+ID : 213	Degree : 86.358815
+Image Center Point : (321, 181)	Marker Point : (309, 172)
+vx : 0.049724	vy : 0.037383	vz : 0.000000	vr : 0.028320
+
+ID : 213	Degree : 86.391531
+Image Center Point : (321, 181)	Marker Point : (302, 173)
+vx : 0.044199	vy : 0.059190	vz : 0.000000	vr : 0.028066
+
+ID : 213	Degree : 85.802332
+Image Center Point : (321, 181)	Marker Point : (304, 173)
+vx : 0.044199	vy : 0.052960	vz : 0.000000	vr : 0.032649
+
+ID : 213	Degree : 85.840358
+Image Center Point : (321, 181)	Marker Point : (308, 174)
+vx : 0.038674	vy : 0.040498	vz : 0.000000	vr : 0.032353
+
+ID : 213	Degree : 82.680981
+Image Center Point : (321, 181)	Marker Point : (318, 176)
+vx : 0.027624	vy : 0.009346	vz : 0.000000	vr : 0.056926
+
+ID : 213	Degree : 81.649247
+Image Center Point : (321, 181)	Marker Point : (318, 167)
+vx : 0.077348	vy : 0.009346	vz : 0.000000	vr : 0.064950
+
+ID : 213	Degree : 81.054618
+Image Center Point : (321, 181)	Marker Point : (317, 166)
+vx : 0.082873	vy : 0.012461	vz : 0.000000	vr : 0.069575
+
+ID : 213	Degree : 78.996459
+Image Center Point : (321, 181)	Marker Point : (318, 172)
+vx : 0.049724	vy : 0.009346	vz : 0.000000	vr : 0.085583
+
+ID : 213	Degree : 77.471192
+Image Center Point : (321, 181)	Marker Point : (318, 172)
+vx : 0.049724	vy : 0.009346	vz : 0.000000	vr : 0.097446
+
+ID : 213	Degree : 76.966644
+Image Center Point : (321, 181)	Marker Point : (318, 177)
+vx : 0.022099	vy : 0.009346	vz : 0.000000	vr : 0.101371
+
+ID : 213	Degree : 75.837832
+Image Center Point : (321, 181)	Marker Point : (313, 177)
+vx : 0.022099	vy : 0.024922	vz : 0.000000	vr : 0.110150
+
+ID : 213	Degree : 74.835539
+Image Center Point : (321, 181)	Marker Point : (317, 178)
+vx : 0.016575	vy : 0.012461	vz : 0.000000	vr : 0.117946
+
+ID : 213	Degree : 73.842660
+Image Center Point : (321, 181)	Marker Point : (320, 168)
+vx : 0.071823	vy : 0.000000	vz : 0.000000	vr : 0.125668
+
+ID : 213	Degree : 73.201628
+Image Center Point : (321, 181)	Marker Point : (325, 165)
+vx : 0.088398	vy : -0.012461	vz : 0.000000	vr : 0.130654
+
+ID : 213	Degree : 72.216112
+Image Center Point : (321, 181)	Marker Point : (331, 161)
+vx : 0.110497	vy : -0.031153	vz : 0.000000	vr : 0.138319
+
+ID : 213	Degree : 69.928474
+Image Center Point : (321, 181)	Marker Point : (330, 156)
+vx : 0.138122	vy : -0.028037	vz : 0.000000	vr : 0.156112
+
+ID : 213	Degree : 69.075498
+Image Center Point : (321, 181)	Marker Point : (335, 160)
+vx : 0.116022	vy : -0.043614	vz : 0.000000	vr : 0.162746
+
+ID : 213	Degree : 69.381812
+Image Center Point : (321, 181)	Marker Point : (331, 163)
+vx : 0.099448	vy : -0.031153	vz : 0.000000	vr : 0.160364
+
+ID : 213	Degree : 68.587031
+Image Center Point : (321, 181)	Marker Point : (327, 172)
+vx : 0.049724	vy : -0.018692	vz : 0.000000	vr : 0.166545
+
+ID : 213	Degree : 67.706371
+Image Center Point : (321, 181)	Marker Point : (322, 175)
+vx : 0.033149	vy : -0.003115	vz : 0.000000	vr : 0.173395
+
+ID : 213	Degree : 67.619865
+Image Center Point : (321, 181)	Marker Point : (320, 174)
+vx : 0.038674	vy : 0.000000	vz : 0.000000	vr : 0.174068
+
+ID : 213	Degree : 66.732295
+Image Center Point : (321, 181)	Marker Point : (310, 175)
+vx : 0.033149	vy : 0.034268	vz : 0.000000	vr : 0.180971
+
+ID : 213	Degree : 65.984898
+Image Center Point : (321, 181)	Marker Point : (296, 174)
+vx : 0.038674	vy : 0.077882	vz : 0.000000	vr : 0.186784
+
+ID : 213	Degree : 66.250506
+Image Center Point : (321, 181)	Marker Point : (296, 166)
+vx : 0.082873	vy : 0.077882	vz : 0.000000	vr : 0.184718
+
+ID : 213	Degree : 65.513319
+Image Center Point : (321, 181)	Marker Point : (274, 162)
+vx : 0.104972	vy : 0.146417	vz : 0.000000	vr : 0.190452
+
+ID : 213	Degree : 66.665959
+Image Center Point : (321, 181)	Marker Point : (273, 160)
+vx : 0.116022	vy : 0.149533	vz : 0.000000	vr : 0.181487
+
+ID : 213	Degree : 65.934368
+Image Center Point : (321, 181)	Marker Point : (283, 151)
+vx : 0.165746	vy : 0.118380	vz : 0.000000	vr : 0.187177
+
+ID : 213	Degree : 66.665959
+Image Center Point : (321, 181)	Marker Point : (279, 152)
+vx : 0.160221	vy : 0.130841	vz : 0.000000	vr : 0.181487
+
+ID : 213	Degree : 66.194056
+Image Center Point : (321, 181)	Marker Point : (280, 150)
+vx : 0.171271	vy : 0.127726	vz : 0.000000	vr : 0.185157
+
+ID : 213	Degree : 66.665959
+Image Center Point : (321, 181)	Marker Point : (278, 153)
+vx : 0.154696	vy : 0.133956	vz : 0.000000	vr : 0.181487
+
+ID : 213	Degree : 66.868579
+Image Center Point : (321, 181)	Marker Point : (281, 148)
+vx : 0.182320	vy : 0.124611	vz : 0.000000	vr : 0.179911
+
+ID : 213	Degree : 67.815987
+Image Center Point : (321, 181)	Marker Point : (277, 146)
+vx : 0.193370	vy : 0.137072	vz : 0.000000	vr : 0.172542
+
+ID : 213	Degree : 66.868579
+Image Center Point : (321, 181)	Marker Point : (278, 148)
+vx : 0.182320	vy : 0.133956	vz : 0.000000	vr : 0.179911
+
+ID : 213	Degree : 66.139825
+Image Center Point : (321, 181)	Marker Point : (281, 144)
+vx : 0.204420	vy : 0.124611	vz : 0.000000	vr : 0.185579
+
+ID : 213	Degree : 64.580712
+Image Center Point : (321, 181)	Marker Point : (290, 144)
+vx : 0.204420	vy : 0.096573	vz : 0.000000	vr : 0.197706
+
+ID : 213	Degree : 63.434949
+Image Center Point : (321, 181)	Marker Point : (295, 146)
+vx : 0.193370	vy : 0.080997	vz : 0.000000	vr : 0.206617
+
+ID : 213	Degree : 62.049031
+Image Center Point : (321, 181)	Marker Point : (300, 142)
+vx : 0.215470	vy : 0.065421	vz : 0.000000	vr : 0.217396
+
+ID : 213	Degree : 62.049031
+Image Center Point : (321, 181)	Marker Point : (305, 139)
+vx : 0.232044	vy : 0.049844	vz : 0.000000	vr : 0.217396
+
+ID : 213	Degree : 60.895268
+Image Center Point : (321, 181)	Marker Point : (309, 146)
+vx : 0.193370	vy : 0.037383	vz : 0.000000	vr : 0.226370
+
+ID : 213	Degree : 60.446316
+Image Center Point : (321, 181)	Marker Point : (317, 144)
+vx : 0.204420	vy : 0.012461	vz : 0.000000	vr : 0.229862
+
+ID : 213	Degree : 60.190886
+Image Center Point : (321, 181)	Marker Point : (324, 146)
+vx : 0.193370	vy : -0.009346	vz : 0.000000	vr : 0.231849
+
+ID : 213	Degree : 59.743563
+Image Center Point : (321, 181)	Marker Point : (330, 154)
+vx : 0.149171	vy : -0.028037	vz : 0.000000	vr : 0.235328
+
+ID : 213	Degree : 59.036243
+Image Center Point : (321, 181)	Marker Point : (333, 155)
+vx : 0.143646	vy : -0.037383	vz : 0.000000	vr : 0.240829
+
+ID : 213	Degree : 58.324531
+Image Center Point : (321, 181)	Marker Point : (332, 157)
+vx : 0.132597	vy : -0.034268	vz : 0.000000	vr : 0.246365
+
+ID : 213	Degree : 57.885169
+Image Center Point : (321, 181)	Marker Point : (326, 153)
+vx : 0.154696	vy : -0.015576	vz : 0.000000	vr : 0.249782
+
+ID : 213	Degree : 57.724356
+Image Center Point : (321, 181)	Marker Point : (324, 146)
+vx : 0.193370	vy : -0.009346	vz : 0.000000	vr : 0.251033
+
+ID : 213	Degree : 57.724356
+Image Center Point : (321, 181)	Marker Point : (320, 151)
+vx : 0.165746	vy : 0.000000	vz : 0.000000	vr : 0.251033
+
+ID : 213	Degree : 57.724356
+Image Center Point : (321, 181)	Marker Point : (320, 156)
+vx : 0.138122	vy : 0.000000	vz : 0.000000	vr : 0.251033
+
+ID : 213	Degree : 57.885169
+Image Center Point : (321, 181)	Marker Point : (321, 152)
+vx : 0.160221	vy : -0.000000	vz : 0.000000	vr : 0.249782
+
+ID : 213	Degree : 57.449997
+Image Center Point : (321, 181)	Marker Point : (318, 150)
+vx : 0.171271	vy : 0.009346	vz : 0.000000	vr : 0.253167
+
+ID : 213	Degree : 59.300277
+Image Center Point : (321, 181)	Marker Point : (320, 150)
+vx : 0.171271	vy : 0.000000	vz : 0.000000	vr : 0.238776
+
+ID : 213	Degree : 61.837473
+Image Center Point : (321, 181)	Marker Point : (317, 145)
+vx : 0.198895	vy : 0.012461	vz : 0.000000	vr : 0.219042
+
+ID : 213	Degree : 63.666914
+Image Center Point : (321, 181)	Marker Point : (312, 151)
+vx : 0.165746	vy : 0.028037	vz : 0.000000	vr : 0.204813
+
+ID : 213	Degree : 66.399810
+Image Center Point : (321, 181)	Marker Point : (309, 155)
+vx : 0.143646	vy : 0.037383	vz : 0.000000	vr : 0.183557
+
+ID : 213	Degree : 69.443955
+Image Center Point : (321, 181)	Marker Point : (296, 167)
+vx : 0.077348	vy : 0.077882	vz : 0.000000	vr : 0.159880
+
+ID : 213	Degree : 71.727362
+Image Center Point : (321, 181)	Marker Point : (288, 185)
+vx : -0.022099	vy : 0.102804	vz : 0.000000	vr : 0.142121
+
+ID : 213	Degree : 75.593315
+Image Center Point : (321, 181)	Marker Point : (290, 185)
+vx : -0.022099	vy : 0.096573	vz : 0.000000	vr : 0.112052
+
+ID : 213	Degree : 76.817035
+Image Center Point : (321, 181)	Marker Point : (289, 183)
+vx : -0.011050	vy : 0.099688	vz : 0.000000	vr : 0.102534
+
+ID : 213	Degree : 79.286877
+Image Center Point : (321, 181)	Marker Point : (295, 193)
+vx : -0.066298	vy : 0.080997	vz : 0.000000	vr : 0.083324
+
+ID : 213	Degree : 81.797646
+Image Center Point : (321, 181)	Marker Point : (307, 187)
+vx : -0.033149	vy : 0.043614	vz : 0.000000	vr : 0.063796
+
+ID : 213	Degree : 82.874984
+Image Center Point : (321, 181)	Marker Point : (306, 182)
+vx : -0.005525	vy : 0.046729	vz : 0.000000	vr : 0.055417
+
+ID : 213	Degree : 84.942751
+Image Center Point : (321, 181)	Marker Point : (307, 185)
+vx : -0.022099	vy : 0.043614	vz : 0.000000	vr : 0.039334
+
+ID : 213	Degree : 86.455234
+Image Center Point : (321, 181)	Marker Point : (310, 190)
+vx : -0.049724	vy : 0.034268	vz : 0.000000	vr : 0.027570
+
+ID : 213	Degree : 4.122298
+Image Center Point : (321, 181)	Marker Point : (310, 186)
+vx : -0.027624	vy : 0.034268	vz : 0.000000	vr : -0.032062
+
+ID : 213	Degree : 7.188537
+Image Center Point : (321, 181)	Marker Point : (309, 202)
+vx : -0.116022	vy : 0.037383	vz : 0.000000	vr : -0.055911
+
+ID : 213	Degree : 8.630802
+Image Center Point : (321, 181)	Marker Point : (315, 197)
+vx : -0.088398	vy : 0.018692	vz : 0.000000	vr : -0.067128
+
+ID : 213	Degree : 10.619655
+Image Center Point : (321, 181)	Marker Point : (318, 188)
+vx : -0.038674	vy : 0.009346	vz : 0.000000	vr : -0.082597
+
+ID : 213	Degree : 14.157633
+Image Center Point : (321, 181)	Marker Point : (335, 188)
+vx : -0.038674	vy : -0.043614	vz : 0.000000	vr : -0.110115
+
+ID : 213	Degree : 16.504361
+Image Center Point : (321, 181)	Marker Point : (343, 196)
+vx : -0.082873	vy : -0.068536	vz : 0.000000	vr : -0.128367
+
+ID : 213	Degree : 18.434949
+Image Center Point : (321, 181)	Marker Point : (354, 201)
+vx : -0.110497	vy : -0.102804	vz : 0.000000	vr : -0.143383
+
+ID : 213	Degree : 20.106235
+Image Center Point : (321, 181)	Marker Point : (353, 201)
+vx : -0.110497	vy : -0.099688	vz : 0.000000	vr : -0.156382
+
+ID : 213	Degree : 21.529007
+Image Center Point : (321, 181)	Marker Point : (350, 187)
+vx : -0.033149	vy : -0.090343	vz : 0.000000	vr : -0.167448
+
+ID : 213	Degree : 21.623196
+Image Center Point : (321, 181)	Marker Point : (337, 157)
+vx : 0.132597	vy : -0.049844	vz : 0.000000	vr : -0.168180
+
+ID : 213	Degree : 20.815066
+Image Center Point : (321, 181)	Marker Point : (314, 129)
+vx : 0.287293	vy : 0.021807	vz : 0.000000	vr : -0.161895
+
+ID : 213	Degree : 22.948937
+Image Center Point : (321, 181)	Marker Point : (313, 122)
+vx : 0.325967	vy : 0.024922	vz : 0.000000	vr : -0.178492
+
+ID : 213	Degree : 23.442921
+Image Center Point : (321, 181)	Marker Point : (296, 130)
+vx : 0.281768	vy : 0.077882	vz : 0.000000	vr : -0.182334
+
+ID : 213	Degree : 25.504139
+Image Center Point : (321, 181)	Marker Point : (298, 162)
+vx : 0.104972	vy : 0.071651	vz : 0.000000	vr : -0.198366
+
+ID : 213	Degree : 26.778840
+Image Center Point : (321, 181)	Marker Point : (291, 185)
+vx : -0.022099	vy : 0.093458	vz : 0.000000	vr : -0.208280
+
+ID : 213	Degree : 26.995838
+Image Center Point : (321, 181)	Marker Point : (288, 191)
+vx : -0.055249	vy : 0.102804	vz : 0.000000	vr : -0.209968
+
+ID : 213	Degree : 27.216112
+Image Center Point : (321, 181)	Marker Point : (294, 203)
+vx : -0.121547	vy : 0.084112	vz : 0.000000	vr : -0.211681
+
+ID : 213	Degree : 27.216112
+Image Center Point : (321, 181)	Marker Point : (298, 204)
+vx : -0.127072	vy : 0.071651	vz : 0.000000	vr : -0.211681
+
+ID : 213	Degree : 28.072487
+Image Center Point : (321, 181)	Marker Point : (312, 208)
+vx : -0.149171	vy : 0.028037	vz : 0.000000	vr : -0.218342
+
+ID : 213	Degree : 28.915424
+Image Center Point : (321, 181)	Marker Point : (321, 208)
+vx : -0.149171	vy : -0.000000	vz : 0.000000	vr : -0.224898
+
+ID : 213	Degree : 28.495639
+Image Center Point : (321, 181)	Marker Point : (332, 204)
+vx : -0.127072	vy : -0.034268	vz : 0.000000	vr : -0.221633
+
+ID : 213	Degree : 29.744881
+Image Center Point : (321, 181)	Marker Point : (328, 205)
+vx : -0.132597	vy : -0.021807	vz : 0.000000	vr : -0.231349
+
+ID : 213	Degree : 30.635418
+Image Center Point : (321, 181)	Marker Point : (336, 203)
+vx : -0.121547	vy : -0.046729	vz : 0.000000	vr : -0.238275
+
+ID : 213	Degree : 30.221838
+Image Center Point : (321, 181)	Marker Point : (319, 187)
+vx : -0.033149	vy : 0.006231	vz : 0.000000	vr : -0.235059
+
+ID : 213	Degree : 30.393263
+Image Center Point : (321, 181)	Marker Point : (320, 188)
+vx : -0.038674	vy : 0.000000	vz : 0.000000	vr : -0.236392
+
+ID : 213	Degree : 30.881079
+Image Center Point : (321, 181)	Marker Point : (318, 179)
+vx : 0.011050	vy : 0.009346	vz : 0.000000	vr : -0.240186
+
+ID : 213	Degree : 30.393263
+Image Center Point : (321, 181)	Marker Point : (304, 163)
+vx : 0.099448	vy : 0.052960	vz : 0.000000	vr : -0.236392
+
+ID : 213	Degree : 30.393263
+Image Center Point : (321, 181)	Marker Point : (305, 168)
+vx : 0.071823	vy : 0.049844	vz : 0.000000	vr : -0.236392
+
+ID : 213	Degree : 31.045491
+Image Center Point : (321, 181)	Marker Point : (305, 176)
+vx : 0.027624	vy : 0.049844	vz : 0.000000	vr : -0.241465
+
+ID : 213	Degree : 31.293039
+Image Center Point : (321, 181)	Marker Point : (304, 175)
+vx : 0.033149	vy : 0.052960	vz : 0.000000	vr : -0.243390
+
+ID : 213	Degree : 31.293039
+Image Center Point : (321, 181)	Marker Point : (304, 175)
+vx : 0.033149	vy : 0.052960	vz : 0.000000	vr : -0.243390
+
+ID : 213	Degree : 29.331840
+Image Center Point : (321, 181)	Marker Point : (312, 188)
+vx : -0.038674	vy : 0.028037	vz : 0.000000	vr : -0.228137
+
+ID : 213	Degree : 26.778840
+Image Center Point : (321, 181)	Marker Point : (340, 197)
+vx : -0.088398	vy : -0.059190	vz : 0.000000	vr : -0.208280
+
+ID : 213	Degree : 24.874154
+Image Center Point : (321, 181)	Marker Point : (347, 206)
+vx : -0.138122	vy : -0.080997	vz : 0.000000	vr : -0.193466
+
+ID : 213	Degree : 21.623196
+Image Center Point : (321, 181)	Marker Point : (346, 200)
+vx : -0.104972	vy : -0.077882	vz : 0.000000	vr : -0.168180
+
+ID : 213	Degree : 16.606981
+Image Center Point : (321, 181)	Marker Point : (315, 169)
+vx : 0.066298	vy : 0.018692	vz : 0.000000	vr : -0.129165
+
+ID : 213	Degree : 10.091057
+Image Center Point : (321, 181)	Marker Point : (262, 144)
+vx : 0.204420	vy : 0.183801	vz : 0.000000	vr : -0.078486
+
+ID : 213	Degree : 7.184267
+Image Center Point : (321, 181)	Marker Point : (231, 125)
+vx : 0.309392	vy : 0.280374	vz : 0.000000	vr : -0.055878
+
+ID : 213	Degree : 4.724452
+Image Center Point : (321, 181)	Marker Point : (202, 124)
+vx : 0.314917	vy : 0.370717	vz : 0.000000	vr : -0.036746
+
+ID : 213	Degree : 2.886419
+Image Center Point : (321, 181)	Marker Point : (220, 127)
+vx : 0.298343	vy : 0.314642	vz : 0.000000	vr : -0.022450
+
+ID : 213	Degree : 0.979320
+Image Center Point : (321, 181)	Marker Point : (259, 116)
+vx : 0.359116	vy : 0.193146	vz : 0.000000	vr : -0.007617
+
+ID : 213	Degree : -1.941486
+Image Center Point : (321, 181)	Marker Point : (292, 103)
+vx : 0.430939	vy : 0.090343	vz : 0.000000	vr : 0.000000
+
+ID : 213	Degree : 88.074816
+Image Center Point : (321, 181)	Marker Point : (336, 108)
+vx : 0.403315	vy : -0.046729	vz : 0.000000	vr : 0.014974
+
+ID : 213	Degree : 87.064327
+ID : 213	Degree : -0.000000
+Image Center Point : (321, 181)	Marker Point : (365, 124)
+vx : 0.314917	vy : -0.137072	vz : 0.000000	vr : 0.000000
+
+ID : 213	Degree : 89.020680
+Image Center Point : (321, 181)	Marker Point : (380, 133)
+vx : 0.265193	vy : -0.183801	vz : 0.000000	vr : 0.007617
+
+ID : 213	Degree : -1.013979
+Image Center Point : (321, 181)	Marker Point : (377, 143)
+vx : 0.209945	vy : -0.174455	vz : 0.000000	vr : 0.000000
+
+ID : 213	Degree : -1.032245
+Image Center Point : (321, 181)	Marker Point : (370, 146)
+vx : 0.193370	vy : -0.152648	vz : 0.000000	vr : 0.000000
+
+ID : 213	Degree : 87.039064
+Image Center Point : (321, 181)	Marker Point : (367, 139)
+vx : 0.232044	vy : -0.143302	vz : 0.000000	vr : 0.023030
+
+ID : 213	Degree : 85.072890
+Image Center Point : (321, 181)	Marker Point : (364, 147)
+vx : 0.187845	vy : -0.133956	vz : 0.000000	vr : 0.038322
+
+ID : 213	Degree : 85.985824
+Image Center Point : (321, 181)	Marker Point : (354, 142)
+vx : 0.215470	vy : -0.102804	vz : 0.000000	vr : 0.031221
+
+ID : 213	Degree : 85.525103
+Image Center Point : (321, 181)	Marker Point : (324, 148)
+vx : 0.182320	vy : -0.009346	vz : 0.000000	vr : 0.034805
+
+ID : 213	Degree : 83.884496
+Image Center Point : (321, 181)	Marker Point : (321, 154)
+vx : 0.149171	vy : -0.000000	vz : 0.000000	vr : 0.047565
+
+ID : 213	Degree : 83.379224
+Image Center Point : (321, 181)	Marker Point : (308, 161)
+vx : 0.110497	vy : 0.040498	vz : 0.000000	vr : 0.051495
+
+ID : 213	Degree : 83.379224
+Image Center Point : (321, 181)	Marker Point : (303, 167)
+vx : 0.077348	vy : 0.056075	vz : 0.000000	vr : 0.051495
+
+ID : 213	Degree : 83.774171
+Image Center Point : (321, 181)	Marker Point : (305, 190)
+vx : -0.049724	vy : 0.049844	vz : 0.000000	vr : 0.048423
+
+ID : 213	Degree : 83.717508
+Image Center Point : (321, 181)	Marker Point : (315, 205)
+vx : -0.132597	vy : 0.018692	vz : 0.000000	vr : 0.048864
+
+ID : 213	Degree : 84.897835
+Image Center Point : (321, 181)	Marker Point : (320, 215)
+vx : -0.187845	vy : 0.000000	vz : 0.000000	vr : 0.039684
+
+ID : 213	Degree : 85.405747
+Image Center Point : (321, 181)	Marker Point : (330, 207)
+vx : -0.143646	vy : -0.028037	vz : 0.000000	vr : 0.035733
+
+ID : 213	Degree : 0.931557
+Image Center Point : (321, 181)	Marker Point : (331, 190)
+vx : -0.049724	vy : -0.031153	vz : 0.000000	vr : -0.007245
+
+ID : 213	Degree : 1.548158
+Image Center Point : (321, 181)	Marker Point : (332, 188)
+vx : -0.038674	vy : -0.034268	vz : 0.000000	vr : -0.012041
+
+ID : 213	Degree : 2.579148
+Image Center Point : (321, 181)	Marker Point : (334, 187)
+vx : -0.033149	vy : -0.040498	vz : 0.000000	vr : -0.020060
+
+ID : 213	Degree : 3.608469
+Image Center Point : (321, 181)	Marker Point : (328, 190)
+vx : -0.049724	vy : -0.021807	vz : 0.000000	vr : -0.028066
+
+ID : 213	Degree : 4.635463
+Image Center Point : (321, 181)	Marker Point : (334, 181)
+vx : -0.000000	vy : -0.040498	vz : 0.000000	vr : -0.036054
+
+ID : 213	Degree : 5.241820
+Image Center Point : (321, 181)	Marker Point : (340, 172)
+vx : 0.049724	vy : -0.059190	vz : 0.000000	vr : -0.040770
+
+ID : 213	Degree : 5.762633
+Image Center Point : (321, 181)	Marker Point : (342, 163)
+vx : 0.099448	vy : -0.065421	vz : 0.000000	vr : -0.044820
+
+ID : 213	Degree : 8.350753
+Image Center Point : (321, 181)	Marker Point : (339, 157)
+vx : 0.132597	vy : -0.056075	vz : 0.000000	vr : -0.064950
+
+ID : 213	Degree : 11.915147
+Image Center Point : (321, 181)	Marker Point : (336, 163)
+vx : 0.099448	vy : -0.046729	vz : 0.000000	vr : -0.092673
+
+ID : 213	Degree : 14.931417
+Image Center Point : (321, 181)	Marker Point : (334, 170)
+vx : 0.060773	vy : -0.040498	vz : 0.000000	vr : -0.116133
+
+ID : 213	Degree : 16.949224
+Image Center Point : (321, 181)	Marker Point : (318, 178)
+vx : 0.016575	vy : 0.009346	vz : 0.000000	vr : -0.131827
+
+ID : 213	Degree : 17.942447
+Image Center Point : (321, 181)	Marker Point : (320, 197)
+vx : -0.088398	vy : 0.000000	vz : 0.000000	vr : -0.139552
+
+ID : 213	Degree : 20.071526
+Image Center Point : (321, 181)	Marker Point : (317, 199)
+vx : -0.099448	vy : 0.012461	vz : 0.000000	vr : -0.156112
+
+ID : 213	Degree : 22.184013
+Image Center Point : (321, 181)	Marker Point : (310, 189)
+vx : -0.044199	vy : 0.034268	vz : 0.000000	vr : -0.172542
+
+ID : 213	Degree : 24.015102
+Image Center Point : (321, 181)	Marker Point : (304, 181)
+vx : -0.000000	vy : 0.052960	vz : 0.000000	vr : -0.186784
+
+ID : 213	Degree : 24.954751
+Image Center Point : (321, 181)	Marker Point : (318, 177)
+vx : 0.022099	vy : 0.009346	vz : 0.000000	vr : -0.194093
+
+ID : 213	Degree : 24.954751
+Image Center Point : (321, 181)	Marker Point : (324, 173)
+vx : 0.044199	vy : -0.009346	vz : 0.000000	vr : -0.194093
+
+ID : 213	Degree : 25.419288
+Image Center Point : (321, 181)	Marker Point : (336, 188)
+vx : -0.038674	vy : -0.046729	vz : 0.000000	vr : -0.197706
+
+ID : 213	Degree : 26.565051
+Image Center Point : (321, 181)	Marker Point : (341, 204)
+vx : -0.127072	vy : -0.062305	vz : 0.000000	vr : -0.206617
+
+ID : 213	Degree : 26.796081
+Image Center Point : (321, 181)	Marker Point : (344, 212)
+vx : -0.171271	vy : -0.071651	vz : 0.000000	vr : -0.208414
+
+ID : 213	Degree : 27.255328
+Image Center Point : (321, 181)	Marker Point : (341, 204)
+vx : -0.127072	vy : -0.062305	vz : 0.000000	vr : -0.211986
+
+ID : 213	Degree : 27.021582
+Image Center Point : (321, 181)	Marker Point : (338, 202)
+vx : -0.116022	vy : -0.052960	vz : 0.000000	vr : -0.210168
+
+ID : 213	Degree : 27.255328
+Image Center Point : (321, 181)	Marker Point : (343, 198)
+vx : -0.093923	vy : -0.068536	vz : 0.000000	vr : -0.211986
+
+ID : 213	Degree : 27.710814
+Image Center Point : (321, 181)	Marker Point : (338, 195)
+vx : -0.077348	vy : -0.052960	vz : 0.000000	vr : -0.215529
+
+ID : 213	Degree : 28.162527
+Image Center Point : (321, 181)	Marker Point : (335, 191)
+vx : -0.055249	vy : -0.043614	vz : 0.000000	vr : -0.219042
+
+ID : 213	Degree : 29.302207
+Image Center Point : (321, 181)	Marker Point : (336, 186)
+vx : -0.027624	vy : -0.046729	vz : 0.000000	vr : -0.227906
+
+ID : 213	Degree : 29.553684
+Image Center Point : (321, 181)	Marker Point : (333, 180)
+vx : 0.000000	vy : -0.037383	vz : 0.000000	vr : -0.229862
+
+ID : 213	Degree : 28.610460
+Image Center Point : (321, 181)	Marker Point : (325, 166)
+vx : 0.082873	vy : -0.012461	vz : 0.000000	vr : -0.222526
+
+ID : 213	Degree : 28.855661
+Image Center Point : (321, 181)	Marker Point : (321, 165)
+vx : 0.088398	vy : -0.000000	vz : 0.000000	vr : -0.224433
+
+ID : 213	Degree : 28.162527
+Image Center Point : (321, 181)	Marker Point : (323, 164)
+vx : 0.093923	vy : -0.006231	vz : 0.000000	vr : -0.219042
+
+ID : 213	Degree : 28.162527
+Image Center Point : (321, 181)	Marker Point : (319, 171)
+vx : 0.055249	vy : 0.006231	vz : 0.000000	vr : -0.219042
+
+ID : 213	Degree : 28.369046
+Image Center Point : (321, 181)	Marker Point : (313, 168)
+vx : 0.071823	vy : 0.024922	vz : 0.000000	vr : -0.220648
+
+ID : 213	Degree : 29.104732
+Image Center Point : (321, 181)	Marker Point : (316, 170)
+vx : 0.060773	vy : 0.015576	vz : 0.000000	vr : -0.226370
+
+ID : 213	Degree : 27.474432
+Image Center Point : (321, 181)	Marker Point : (316, 165)
+vx : 0.088398	vy : 0.015576	vz : 0.000000	vr : -0.213690
+
+ID : 213	Degree : 24.739509
+Image Center Point : (321, 181)	Marker Point : (336, 162)
+vx : 0.104972	vy : -0.046729	vz : 0.000000	vr : -0.192418
+
+ID : 213	Degree : 22.184013
+Image Center Point : (321, 181)	Marker Point : (354, 162)
+vx : 0.104972	vy : -0.102804	vz : 0.000000	vr : -0.172542
+
+ID : 213	Degree : 17.292449
+Image Center Point : (321, 181)	Marker Point : (368, 151)
+vx : 0.165746	vy : -0.146417	vz : 0.000000	vr : -0.134497
+
+ID : 213	Degree : 15.030431
+Image Center Point : (321, 181)	Marker Point : (376, 148)
+vx : 0.182320	vy : -0.171340	vz : 0.000000	vr : -0.116903
+
+ID : 213	Degree : 10.304846
+Image Center Point : (321, 181)	Marker Point : (372, 149)
+vx : 0.176796	vy : -0.158879	vz : 0.000000	vr : -0.080149
+
+ID : 213	Degree : 7.125016
+Image Center Point : (321, 181)	Marker Point : (366, 139)
+vx : 0.232044	vy : -0.140187	vz : 0.000000	vr : -0.055417
+
+ID : 213	Degree : 1.534341
+Image Center Point : (321, 181)	Marker Point : (348, 127)
+vx : 0.298343	vy : -0.084112	vz : 0.000000	vr : -0.011934
+
+ID : 213	Degree : 85.914383
+Image Center Point : (321, 181)	Marker Point : (355, 116)
+vx : 0.359116	vy : -0.105919	vz : 0.000000	vr : 0.031777
+
+ID : 213	Degree : 84.440053
+Image Center Point : (321, 181)	Marker Point : (346, 120)
+vx : 0.337017	vy : -0.077882	vz : 0.000000	vr : 0.043244
+
+ID : 213	Degree : 81.444442
+Image Center Point : (321, 181)	Marker Point : (337, 124)
+vx : 0.314917	vy : -0.049844	vz : 0.000000	vr : 0.066543
+
+ID : 213	Degree : 79.875328
+Image Center Point : (321, 181)	Marker Point : (340, 123)
+vx : 0.320442	vy : -0.059190	vz : 0.000000	vr : 0.078747
+
+ID : 213	Degree : 80.455474
+Image Center Point : (321, 181)	Marker Point : (339, 128)
+vx : 0.292818	vy : -0.056075	vz : 0.000000	vr : 0.074235
+
+ID : 213	Degree : 79.963098
+Image Center Point : (321, 181)	Marker Point : (341, 141)
+vx : 0.220994	vy : -0.062305	vz : 0.000000	vr : 0.078065
+
+ID : 213	Degree : 78.690068
+Image Center Point : (321, 181)	Marker Point : (338, 148)
+vx : 0.182320	vy : -0.052960	vz : 0.000000	vr : 0.087966
+
+ID : 213	Degree : 77.582554
+Image Center Point : (321, 181)	Marker Point : (346, 166)
+vx : 0.082873	vy : -0.077882	vz : 0.000000	vr : 0.096580
+
+ID : 213	Degree : 77.691984
+Image Center Point : (321, 181)	Marker Point : (348, 176)
+vx : 0.027624	vy : -0.084112	vz : 0.000000	vr : 0.095729
+
+ID : 213	Degree : 75.593315
+Image Center Point : (321, 181)	Marker Point : (351, 169)
+vx : 0.066298	vy : -0.093458	vz : 0.000000	vr : 0.112052
+
+ID : 213	Degree : 75.593315
+Image Center Point : (321, 181)	Marker Point : (347, 170)
+vx : 0.060773	vy : -0.080997	vz : 0.000000	vr : 0.112052
+
+ID : 213	Degree : 73.984560
+Image Center Point : (321, 181)	Marker Point : (334, 158)
+vx : 0.127072	vy : -0.040498	vz : 0.000000	vr : 0.124565
+
+ID : 213	Degree : 73.638923
+Image Center Point : (321, 181)	Marker Point : (320, 153)
+vx : 0.154696	vy : 0.000000	vz : 0.000000	vr : 0.127253
+
+ID : 213	Degree : 70.588513
+Image Center Point : (321, 181)	Marker Point : (309, 156)
+vx : 0.138122	vy : 0.037383	vz : 0.000000	vr : 0.150978
+
+ID : 213	Degree : 68.484115
+Image Center Point : (321, 181)	Marker Point : (301, 153)
+vx : 0.154696	vy : 0.062305	vz : 0.000000	vr : 0.167346
+
+ID : 213	Degree : 68.008870
+Image Center Point : (321, 181)	Marker Point : (307, 164)
+vx : 0.093923	vy : 0.043614	vz : 0.000000	vr : 0.171042
+
+ID : 213	Degree : 67.340648
+Image Center Point : (321, 181)	Marker Point : (319, 166)
+vx : 0.082873	vy : 0.006231	vz : 0.000000	vr : 0.176239
+
+ID : 213	Degree : 66.194056
+Image Center Point : (321, 181)	Marker Point : (335, 169)
+vx : 0.066298	vy : -0.043614	vz : 0.000000	vr : 0.185157
+
+ID : 213	Degree : 65.297570
+Image Center Point : (321, 181)	Marker Point : (350, 170)
+vx : 0.060773	vy : -0.090343	vz : 0.000000	vr : 0.192130
+
+ID : 213	Degree : 64.119726
+Image Center Point : (321, 181)	Marker Point : (351, 162)
+vx : 0.104972	vy : -0.093458	vz : 0.000000	vr : 0.201291
+
+ID : 213	Degree : 62.744672
+Image Center Point : (321, 181)	Marker Point : (351, 160)
+vx : 0.116022	vy : -0.093458	vz : 0.000000	vr : 0.211986
+
+ID : 213	Degree : 61.837473
+Image Center Point : (321, 181)	Marker Point : (349, 154)
+vx : 0.149171	vy : -0.087227	vz : 0.000000	vr : 0.219042
+
+ID : 213	Degree : 60.446316
+Image Center Point : (321, 181)	Marker Point : (345, 149)
+vx : 0.176796	vy : -0.074766	vz : 0.000000	vr : 0.229862
+
+ID : 213	Degree : 60.697793
+Image Center Point : (321, 181)	Marker Point : (345, 155)
+vx : 0.143646	vy : -0.074766	vz : 0.000000	vr : 0.227906
+
+ID : 213	Degree : 60.255119
+Image Center Point : (321, 181)	Marker Point : (344, 164)
+vx : 0.093923	vy : -0.071651	vz : 0.000000	vr : 0.231349
+
+ID : 213	Degree : 58.861028
+Image Center Point : (321, 181)	Marker Point : (340, 165)
+vx : 0.088398	vy : -0.059190	vz : 0.000000	vr : 0.242192
+
+ID : 213	Degree : 58.861028
+Image Center Point : (321, 181)	Marker Point : (340, 165)
+vx : 0.088398	vy : -0.059190	vz : 0.000000	vr : 0.242192
+
+ID : 213	Degree : 58.690050
+Image Center Point : (321, 181)	Marker Point : (338, 157)
+vx : 0.132597	vy : -0.052960	vz : 0.000000	vr : 0.243522
+
+ID : 213	Degree : 57.724356
+Image Center Point : (321, 181)	Marker Point : (335, 151)
+vx : 0.165746	vy : -0.043614	vz : 0.000000	vr : 0.251033
+
+ID : 213	Degree : 56.592175
+Image Center Point : (321, 181)	Marker Point : (335, 142)
+vx : 0.215470	vy : -0.043614	vz : 0.000000	vr : 0.259839
+
+ID : 213	Degree : 56.449338
+Image Center Point : (321, 181)	Marker Point : (340, 139)
+vx : 0.232044	vy : -0.059190	vz : 0.000000	vr : 0.260950
+
+ID : 213	Degree : 56.870265
+Image Center Point : (321, 181)	Marker Point : (346, 143)
+vx : 0.209945	vy : -0.077882	vz : 0.000000	vr : 0.257676
+
+ID : 213	Degree : 56.870265
+Image Center Point : (321, 181)	Marker Point : (358, 154)
+vx : 0.149171	vy : -0.115265	vz : 0.000000	vr : 0.257676
+
+ID : 213	Degree : 57.144278
+Image Center Point : (321, 181)	Marker Point : (362, 163)
+vx : 0.099448	vy : -0.127726	vz : 0.000000	vr : 0.255545
+
+ID : 213	Degree : 57.144278
+Image Center Point : (321, 181)	Marker Point : (366, 167)
+vx : 0.077348	vy : -0.140187	vz : 0.000000	vr : 0.255545
+
+ID : 213	Degree : 57.567443
+Image Center Point : (321, 181)	Marker Point : (365, 170)
+vx : 0.060773	vy : -0.137072	vz : 0.000000	vr : 0.252253
+
+ID : 213	Degree : 57.144278
+Image Center Point : (321, 181)	Marker Point : (349, 180)
+vx : 0.000000	vy : -0.087227	vz : 0.000000	vr : 0.255545
+
+ID : 213	Degree : 57.567443
+Image Center Point : (321, 181)	Marker Point : (342, 188)
+vx : -0.038674	vy : -0.065421	vz : 0.000000	vr : 0.252253
+
+ID : 213	Degree : 58.260859
+Image Center Point : (321, 181)	Marker Point : (338, 190)
+vx : -0.049724	vy : -0.052960	vz : 0.000000	vr : 0.246860
+
+ID : 213	Degree : 58.260859
+Image Center Point : (321, 181)	Marker Point : (334, 188)
+vx : -0.038674	vy : -0.040498	vz : 0.000000	vr : 0.246860
+
+ID : 213	Degree : 58.260859
+Image Center Point : (321, 181)	Marker Point : (327, 174)
+vx : 0.038674	vy : -0.018692	vz : 0.000000	vr : 0.246860
+
+ID : 213	Degree : 57.414293
+Image Center Point : (321, 181)	Marker Point : (322, 171)
+vx : 0.055249	vy : -0.003115	vz : 0.000000	vr : 0.253444
+
+ID : 213	Degree : 56.870265
+Image Center Point : (321, 181)	Marker Point : (321, 174)
+vx : 0.038674	vy : -0.000000	vz : 0.000000	vr : 0.257676
+
+ID : 213	Degree : 55.750967
+Image Center Point : (321, 181)	Marker Point : (319, 168)
+vx : 0.071823	vy : 0.006231	vz : 0.000000	vr : 0.266381
+
+ID : 213	Degree : 55.750967
+Image Center Point : (321, 181)	Marker Point : (322, 167)
+vx : 0.077348	vy : -0.003115	vz : 0.000000	vr : 0.266381
+
+ID : 213	Degree : 54.926246
+Image Center Point : (321, 181)	Marker Point : (321, 157)
+vx : 0.132597	vy : -0.000000	vz : 0.000000	vr : 0.272796
+
+ID : 213	Degree : 54.229886
+Image Center Point : (321, 181)	Marker Point : (326, 151)
+vx : 0.165746	vy : -0.015576	vz : 0.000000	vr : 0.278212
+
+ID : 213	Degree : 54.229886
+Image Center Point : (321, 181)	Marker Point : (332, 150)
+vx : 0.171271	vy : -0.034268	vz : 0.000000	vr : 0.278212
+
+ID : 213	Degree : 53.530766
+Image Center Point : (321, 181)	Marker Point : (333, 147)
+vx : 0.187845	vy : -0.037383	vz : 0.000000	vr : 0.283650
+
+ID : 213	Degree : 53.826371
+Image Center Point : (321, 181)	Marker Point : (335, 150)
+vx : 0.171271	vy : -0.043614	vz : 0.000000	vr : 0.281350
+
+ID : 213	Degree : 53.426969
+Image Center Point : (321, 181)	Marker Point : (334, 149)
+vx : 0.176796	vy : -0.040498	vz : 0.000000	vr : 0.284457
+
+ID : 213	Degree : 53.031656
+Image Center Point : (321, 181)	Marker Point : (336, 144)
+vx : 0.204420	vy : -0.046729	vz : 0.000000	vr : 0.287532
+
+ID : 213	Degree : 52.733598
+Image Center Point : (321, 181)	Marker Point : (336, 148)
+vx : 0.182320	vy : -0.046729	vz : 0.000000	vr : 0.289850
+
+ID : 213	Degree : 52.733598
+Image Center Point : (321, 181)	Marker Point : (335, 148)
+vx : 0.182320	vy : -0.043614	vz : 0.000000	vr : 0.289850
+
+ID : 213	Degree : 54.806093
+Image Center Point : (321, 181)	Marker Point : (342, 152)
+vx : 0.160221	vy : -0.065421	vz : 0.000000	vr : 0.273730
+
+ID : 213	Degree : 56.725112
+Image Center Point : (321, 181)	Marker Point : (343, 165)
+vx : 0.088398	vy : -0.068536	vz : 0.000000	vr : 0.258805
+
+ID : 213	Degree : 58.099843
+Image Center Point : (321, 181)	Marker Point : (343, 170)
+vx : 0.060773	vy : -0.068536	vz : 0.000000	vr : 0.248112
+
+ID : 213	Degree : 58.260859
+Image Center Point : (321, 181)	Marker Point : (343, 173)
+vx : 0.044199	vy : -0.068536	vz : 0.000000	vr : 0.246860
+
+ID : 213	Degree : 58.523161
+Image Center Point : (321, 181)	Marker Point : (335, 179)
+vx : 0.011050	vy : -0.043614	vz : 0.000000	vr : 0.244820
+
+ID : 213	Degree : 60.751174
+Image Center Point : (321, 181)	Marker Point : (326, 176)
+vx : 0.027624	vy : -0.015576	vz : 0.000000	vr : 0.227491
+
+ID : 213	Degree : 65.680691
+Image Center Point : (321, 181)	Marker Point : (321, 186)
+vx : -0.027624	vy : -0.000000	vz : 0.000000	vr : 0.189150
+
+ID : 213	Degree : 69.034288
+Image Center Point : (321, 181)	Marker Point : (327, 189)
+vx : -0.044199	vy : -0.018692	vz : 0.000000	vr : 0.163067
+
+ID : 213	Degree : 76.328693
+Image Center Point : (321, 181)	Marker Point : (320, 199)
+vx : -0.099448	vy : 0.000000	vz : 0.000000	vr : 0.106332
+
+ID : 213	Degree : 80.455474
+Image Center Point : (321, 181)	Marker Point : (338, 209)
+vx : -0.154696	vy : -0.052960	vz : 0.000000	vr : 0.074235
+
+ID : 213	Degree : 86.987212
+Image Center Point : (321, 181)	Marker Point : (325, 219)
+vx : -0.209945	vy : -0.012461	vz : 0.000000	vr : 0.023433
+
+ID : 213	Degree : 5.057249
+Image Center Point : (321, 181)	Marker Point : (309, 198)
+vx : -0.093923	vy : 0.037383	vz : 0.000000	vr : -0.039334
+
+ID : 213	Degree : 8.059104
+Image Center Point : (321, 181)	Marker Point : (317, 195)
+vx : -0.077348	vy : 0.012461	vz : 0.000000	vr : -0.062682
+
+ID : 213	Degree : 11.504815
+Image Center Point : (321, 181)	Marker Point : (311, 189)
+vx : -0.044199	vy : 0.031153	vz : 0.000000	vr : -0.089482
+
+ID : 213	Degree : 13.553764
+Image Center Point : (321, 181)	Marker Point : (305, 188)
+vx : -0.038674	vy : 0.049844	vz : 0.000000	vr : -0.105418
+
+ID : 213	Degree : 15.124007
+Image Center Point : (321, 181)	Marker Point : (316, 188)
+vx : -0.038674	vy : 0.015576	vz : 0.000000	vr : -0.117631
+
+ID : 213	Degree : 16.843809
+Image Center Point : (321, 181)	Marker Point : (329, 188)
+vx : -0.038674	vy : -0.024922	vz : 0.000000	vr : -0.131007
+
+ID : 213	Degree : 21.072727
+Image Center Point : (321, 181)	Marker Point : (317, 200)
+vx : -0.104972	vy : 0.012461	vz : 0.000000	vr : -0.163899
+
+ID : 213	Degree : 23.070412
+Image Center Point : (321, 181)	Marker Point : (317, 202)
+vx : -0.116022	vy : 0.012461	vz : 0.000000	vr : -0.179437
+
+ID : 213	Degree : 24.605124
+Image Center Point : (321, 181)	Marker Point : (317, 200)
+vx : -0.104972	vy : 0.012461	vz : 0.000000	vr : -0.191373
+
+ID : 213	Degree : 26.346366
+Image Center Point : (321, 181)	Marker Point : (304, 208)
+vx : -0.149171	vy : 0.052960	vz : 0.000000	vr : -0.204916
+
+ID : 213	Degree : 28.072487
+Image Center Point : (321, 181)	Marker Point : (299, 213)
+vx : -0.176796	vy : 0.068536	vz : 0.000000	vr : -0.218342
+
+ID : 213	Degree : 28.726131
+Image Center Point : (321, 181)	Marker Point : (306, 205)
+vx : -0.132597	vy : 0.046729	vz : 0.000000	vr : -0.223425
+
+ID : 213	Degree : 29.148072
+Image Center Point : (321, 181)	Marker Point : (311, 206)
+vx : -0.138122	vy : 0.031153	vz : 0.000000	vr : -0.226707
+
+ID : 213	Degree : 30.465545
+Image Center Point : (321, 181)	Marker Point : (325, 200)
+vx : -0.104972	vy : -0.012461	vz : 0.000000	vr : -0.236954
+
+ID : 213	Degree : 31.544157
+Image Center Point : (321, 181)	Marker Point : (334, 192)
+vx : -0.060773	vy : -0.040498	vz : 0.000000	vr : -0.245343
+
+ID : 213	Degree : 31.954363
+Image Center Point : (321, 181)	Marker Point : (345, 203)
+vx : -0.121547	vy : -0.074766	vz : 0.000000	vr : -0.248534
+
+ID : 213	Degree : 32.881240
+Image Center Point : (321, 181)	Marker Point : (350, 194)
+vx : -0.071823	vy : -0.090343	vz : 0.000000	vr : -0.255743
+
+ID : 213	Degree : 32.210928
+Image Center Point : (321, 181)	Marker Point : (377, 176)
+vx : 0.027624	vy : -0.174455	vz : 0.000000	vr : -0.250529
+
+ID : 213	Degree : 34.359380
+Image Center Point : (321, 181)	Marker Point : (369, 186)
+vx : -0.027624	vy : -0.149533	vz : 0.000000	vr : -0.267240
+
+ID : 213	Degree : 35.031644
+Image Center Point : (321, 181)	Marker Point : (373, 180)
+vx : 0.000000	vy : -0.161994	vz : 0.000000	vr : -0.272468
+
+ID : 213	Degree : 35.148673
+Image Center Point : (321, 181)	Marker Point : (375, 170)
+vx : 0.060773	vy : -0.168224	vz : 0.000000	vr : -0.273379
+
+ID : 213	Degree : 35.148673
+Image Center Point : (321, 181)	Marker Point : (357, 164)
+vx : 0.093923	vy : -0.112150	vz : 0.000000	vr : -0.273379
+
+ID : 213	Degree : 34.875328
+Image Center Point : (321, 181)	Marker Point : (346, 153)
+vx : 0.154696	vy : -0.077882	vz : 0.000000	vr : -0.271253
+
+ID : 213	Degree : 34.755913
+Image Center Point : (321, 181)	Marker Point : (313, 144)
+vx : 0.204420	vy : 0.024922	vz : 0.000000	vr : -0.270324
+
+ID : 213	Degree : 35.425772
+Image Center Point : (321, 181)	Marker Point : (305, 143)
+vx : 0.209945	vy : 0.049844	vz : 0.000000	vr : -0.275534
+
+ID : 213	Degree : 36.585318
+Image Center Point : (321, 181)	Marker Point : (298, 151)
+vx : 0.165746	vy : 0.071651	vz : 0.000000	vr : -0.284552
+
+ID : 213	Degree : 36.585318
+Image Center Point : (321, 181)	Marker Point : (285, 152)
+vx : 0.160221	vy : 0.112150	vz : 0.000000	vr : -0.284552
+
+ID : 213	Degree : 37.626234
+Image Center Point : (321, 181)	Marker Point : (277, 158)
+vx : 0.127072	vy : 0.137072	vz : 0.000000	vr : -0.292648
+
+ID : 213	Degree : 37.711048
+Image Center Point : (321, 181)	Marker Point : (278, 168)
+vx : 0.071823	vy : 0.133956	vz : 0.000000	vr : -0.293308
+
+ID : 213	Degree : 37.626234
+Image Center Point : (321, 181)	Marker Point : (280, 169)
+vx : 0.066298	vy : 0.127726	vz : 0.000000	vr : -0.292648
+
+ID : 213	Degree : 38.367485
+Image Center Point : (321, 181)	Marker Point : (281, 182)
+vx : -0.005525	vy : 0.124611	vz : 0.000000	vr : -0.298414
+
+ID : 213	Degree : 37.916714
+Image Center Point : (321, 181)	Marker Point : (286, 184)
+vx : -0.016575	vy : 0.109034	vz : 0.000000	vr : -0.294908
+
+ID : 213	Degree : 37.539434
+Image Center Point : (321, 181)	Marker Point : (295, 184)
+vx : -0.016575	vy : 0.080997	vz : 0.000000	vr : -0.291973
+
+ID : 213	Degree : 37.916714
+Image Center Point : (321, 181)	Marker Point : (302, 184)
+vx : -0.016575	vy : 0.059190	vz : 0.000000	vr : -0.294908
+
+ID : 213	Degree : 38.290163
+Image Center Point : (321, 181)	Marker Point : (302, 189)
+vx : -0.044199	vy : 0.059190	vz : 0.000000	vr : -0.297812
+
+ID : 213	Degree : 38.585398
+Image Center Point : (321, 181)	Marker Point : (306, 188)
+vx : -0.038674	vy : 0.046729	vz : 0.000000	vr : -0.300109
+
+ID : 213	Degree : 39.623295
+Image Center Point : (321, 181)	Marker Point : (305, 193)
+vx : -0.066298	vy : 0.049844	vz : 0.000000	vr : -0.308181
+
+ID : 213	Degree : 39.623295
+Image Center Point : (321, 181)	Marker Point : (307, 189)
+vx : -0.044199	vy : 0.043614	vz : 0.000000	vr : -0.308181
+
+ID : 213	Degree : 39.623295
+Image Center Point : (321, 181)	Marker Point : (302, 189)
+vx : -0.044199	vy : 0.059190	vz : 0.000000	vr : -0.308181
+
+ID : 213	Degree : 39.623295
+Image Center Point : (321, 181)	Marker Point : (303, 188)
+vx : -0.038674	vy : 0.056075	vz : 0.000000	vr : -0.308181
+
+ID : 213	Degree : 37.916714
+Image Center Point : (321, 181)	Marker Point : (300, 185)
+vx : -0.022099	vy : 0.065421	vz : 0.000000	vr : -0.294908
+
+ID : 213	Degree : 35.537678
+Image Center Point : (321, 181)	Marker Point : (317, 197)
+vx : -0.088398	vy : 0.012461	vz : 0.000000	vr : -0.276404
+
+ID : 213	Degree : 34.088872
+Image Center Point : (321, 181)	Marker Point : (318, 195)
+vx : -0.077348	vy : 0.009346	vz : 0.000000	vr : -0.265136
+
+ID : 213	Degree : 31.954363
+Image Center Point : (321, 181)	Marker Point : (321, 190)
+vx : -0.049724	vy : -0.000000	vz : 0.000000	vr : -0.248534
+
+ID : 213	Degree : 28.268513
+Image Center Point : (321, 181)	Marker Point : (310, 175)
+vx : 0.033149	vy : 0.034268	vz : 0.000000	vr : -0.219866
+
+ID : 213	Degree : 26.995838
+Image Center Point : (321, 181)	Marker Point : (302, 174)
+vx : 0.038674	vy : 0.059190	vz : 0.000000	vr : -0.209968
+
+ID : 213	Degree : 23.325351
+Image Center Point : (321, 181)	Marker Point : (297, 166)
+vx : 0.082873	vy : 0.074766	vz : 0.000000	vr : -0.181419
+
+ID : 213	Degree : 22.249024
+Image Center Point : (321, 181)	Marker Point : (293, 163)
+vx : 0.099448	vy : 0.087227	vz : 0.000000	vr : -0.173048
+
+ID : 213	Degree : 20.106235
+Image Center Point : (321, 181)	Marker Point : (316, 170)
+vx : 0.060773	vy : 0.015576	vz : 0.000000	vr : -0.156382
+
+ID : 213	Degree : 16.886791
+Image Center Point : (321, 181)	Marker Point : (326, 174)
+vx : 0.038674	vy : -0.015576	vz : 0.000000	vr : -0.131342
+
+ID : 213	Degree : 14.272513
+Image Center Point : (321, 181)	Marker Point : (335, 170)
+vx : 0.060773	vy : -0.043614	vz : 0.000000	vr : -0.111008
+
+ID : 213	Degree : 12.847705
+Image Center Point : (321, 181)	Marker Point : (345, 169)
+vx : 0.066298	vy : -0.074766	vz : 0.000000	vr : -0.099927
+
+ID : 213	Degree : 11.406553
+Image Center Point : (321, 181)	Marker Point : (333, 180)
+vx : 0.000000	vy : -0.037383	vz : 0.000000	vr : -0.088718
+
+ID : 213	Degree : 7.853313
+Image Center Point : (321, 181)	Marker Point : (317, 179)
+vx : 0.011050	vy : 0.012461	vz : 0.000000	vr : -0.061081
+
+ID : 213	Degree : 5.957131
+Image Center Point : (321, 181)	Marker Point : (308, 176)
+vx : 0.027624	vy : 0.040498	vz : 0.000000	vr : -0.046333
+
+ID : 213	Degree : 3.979382
+Image Center Point : (321, 181)	Marker Point : (292, 182)
+vx : -0.005525	vy : 0.090343	vz : 0.000000	vr : -0.030951
+
+ID : 213	Degree : 2.960936
+Image Center Point : (321, 181)	Marker Point : (281, 185)
+vx : -0.022099	vy : 0.124611	vz : 0.000000	vr : -0.023030
+
+ID : 213	Degree : -0.962864
+Image Center Point : (321, 181)	Marker Point : (284, 174)
+vx : 0.038674	vy : 0.115265	vz : 0.000000	vr : 0.000000
+
+ID : 213	Degree : 87.064327
+Image Center Point : (321, 181)	Marker Point : (290, 180)
+vx : 0.000000	vy : 0.096573	vz : 0.000000	vr : 0.022833
+
+ID : 213	Degree : 84.674259
+Image Center Point : (321, 181)	Marker Point : (310, 168)
+vx : 0.071823	vy : 0.034268	vz : 0.000000	vr : 0.041422
+
+ID : 213	Degree : 83.118276
+Image Center Point : (321, 181)	Marker Point : (323, 160)
+vx : 0.116022	vy : -0.006231	vz : 0.000000	vr : 0.053525
+
+ID : 213	Degree : 83.176538
+Image Center Point : (321, 181)	Marker Point : (331, 160)
+vx : 0.116022	vy : -0.031153	vz : 0.000000	vr : 0.053071
+
+ID : 213	Degree : 80.134193
+Image Center Point : (321, 181)	Marker Point : (338, 155)
+vx : 0.143646	vy : -0.052960	vz : 0.000000	vr : 0.076734
+
+ID : 213	Degree : 76.315980
+Image Center Point : (321, 181)	Marker Point : (346, 150)
+vx : 0.171271	vy : -0.077882	vz : 0.000000	vr : 0.106431
+
+ID : 213	Degree : 74.787417
+Image Center Point : (321, 181)	Marker Point : (345, 150)
+vx : 0.171271	vy : -0.074766	vz : 0.000000	vr : 0.118320
+
+ID : 213	Degree : 73.393019
+Image Center Point : (321, 181)	Marker Point : (340, 163)
+vx : 0.099448	vy : -0.059190	vz : 0.000000	vr : 0.129165
+
+ID : 213	Degree : 71.565051
+Image Center Point : (321, 181)	Marker Point : (331, 169)
+vx : 0.066298	vy : -0.031153	vz : 0.000000	vr : 0.143383
+
+ID : 213	Degree : 70.016893
+Image Center Point : (321, 181)	Marker Point : (323, 184)
+vx : -0.016575	vy : -0.006231	vz : 0.000000	vr : 0.155424
+
+ID : 213	Degree : 68.470993
+Image Center Point : (321, 181)	Marker Point : (305, 185)
+vx : -0.022099	vy : 0.049844	vz : 0.000000	vr : 0.167448
+
+ID : 213	Degree : 67.567009
+Image Center Point : (321, 181)	Marker Point : (301, 171)
+vx : 0.055249	vy : 0.062305	vz : 0.000000	vr : 0.174479
+
+ID : 213	Degree : 64.983107
+Image Center Point : (321, 181)	Marker Point : (297, 155)
+vx : 0.143646	vy : 0.074766	vz : 0.000000	vr : 0.194576
+
+ID : 213	Degree : 64.746837
+Image Center Point : (321, 181)	Marker Point : (298, 149)
+vx : 0.176796	vy : 0.071651	vz : 0.000000	vr : 0.196413
+
+ID : 213	Degree : 64.093492
+Image Center Point : (321, 181)	Marker Point : (302, 141)
+vx : 0.220994	vy : 0.059190	vz : 0.000000	vr : 0.201495
+
+ID : 213	Degree : 63.653634
+Image Center Point : (321, 181)	Marker Point : (307, 140)
+vx : 0.226519	vy : 0.043614	vz : 0.000000	vr : 0.204916
+
+ID : 213	Degree : 64.093492
+Image Center Point : (321, 181)	Marker Point : (318, 151)
+vx : 0.165746	vy : 0.009346	vz : 0.000000	vr : 0.201495
+
+ID : 213	Degree : 63.657888
+Image Center Point : (321, 181)	Marker Point : (320, 156)
+vx : 0.138122	vy : 0.000000	vz : 0.000000	vr : 0.204883
+
+ID : 213	Degree : 64.093492
+Image Center Point : (321, 181)	Marker Point : (333, 165)
+vx : 0.088398	vy : -0.037383	vz : 0.000000	vr : 0.201495
+
+ID : 213	Degree : 64.536655
+Image Center Point : (321, 181)	Marker Point : (333, 171)
+vx : 0.055249	vy : -0.037383	vz : 0.000000	vr : 0.198048
+
+ID : 213	Degree : 64.536655
+Image Center Point : (321, 181)	Marker Point : (331, 170)
+vx : 0.060773	vy : -0.031153	vz : 0.000000	vr : 0.198048
+
+ID : 213	Degree : 63.434949
+Image Center Point : (321, 181)	Marker Point : (338, 182)
+vx : -0.005525	vy : -0.052960	vz : 0.000000	vr : 0.206617
+
+ID : 213	Degree : 69.848253
+Image Center Point : (321, 181)	Marker Point : (348, 190)
+vx : -0.049724	vy : -0.084112	vz : 0.000000	vr : 0.156736
+
+ID : 213	Degree : 73.720327
+Image Center Point : (321, 181)	Marker Point : (343, 197)
+vx : -0.088398	vy : -0.068536	vz : 0.000000	vr : 0.126620
+
+ID : 213	Degree : 77.152295
+Image Center Point : (321, 181)	Marker Point : (324, 199)
+vx : -0.099448	vy : -0.009346	vz : 0.000000	vr : 0.099927
+
+ID : 213	Degree : 79.651316
+Image Center Point : (321, 181)	Marker Point : (321, 191)
+vx : -0.055249	vy : -0.000000	vz : 0.000000	vr : 0.080490
+
+ID : 213	Degree : 81.179620
+Image Center Point : (321, 181)	Marker Point : (316, 183)
+vx : -0.011050	vy : 0.015576	vz : 0.000000	vr : 0.068603
+
+ID : 213	Degree : 82.694240
+Image Center Point : (321, 181)	Marker Point : (316, 179)
+vx : 0.011050	vy : 0.015576	vz : 0.000000	vr : 0.056823
+
+ID : 213	Degree : 87.039064
+Image Center Point : (321, 181)	Marker Point : (327, 174)
+vx : 0.038674	vy : -0.018692	vz : 0.000000	vr : 0.023030
+
+ID : 213	Degree : 3.513750
+Image Center Point : (321, 181)	Marker Point : (344, 174)
+vx : 0.038674	vy : -0.071651	vz : 0.000000	vr : -0.027329
+
+ID : 213	Degree : 6.009006
+Image Center Point : (321, 181)	Marker Point : (355, 185)
+vx : -0.022099	vy : -0.105919	vz : 0.000000	vr : -0.046737
+
+ID : 213	Degree : 6.562699
+Image Center Point : (321, 181)	Marker Point : (356, 183)
+vx : -0.011050	vy : -0.109034	vz : 0.000000	vr : -0.051043
+
+ID : 213	Degree : 5.511477
+Image Center Point : (321, 181)	Marker Point : (345, 181)
+vx : -0.000000	vy : -0.074766	vz : 0.000000	vr : -0.042867
+
+ID : 213	Degree : 6.009006
+Image Center Point : (321, 181)	Marker Point : (328, 179)
+vx : 0.011050	vy : -0.021807	vz : 0.000000	vr : -0.046737
+
+ID : 213	Degree : 5.147885
+Image Center Point : (321, 181)	Marker Point : (317, 176)
+vx : 0.027624	vy : 0.012461	vz : 0.000000	vr : -0.040039
+
+ID : 213	Degree : 4.553768
+Image Center Point : (321, 181)	Marker Point : (320, 175)
+vx : 0.033149	vy : 0.000000	vz : 0.000000	vr : -0.035418
+
+ID : 213	Degree : 4.553768
+Image Center Point : (321, 181)	Marker Point : (320, 172)
+vx : 0.049724	vy : 0.000000	vz : 0.000000	vr : -0.035418
+
+ID : 213	Degree : 4.474897
+Image Center Point : (321, 181)	Marker Point : (341, 163)
+vx : 0.099448	vy : -0.062305	vz : 0.000000	vr : -0.034805
+
+ID : 213	Degree : 4.844000
+Image Center Point : (321, 181)	Marker Point : (348, 168)
+vx : 0.071823	vy : -0.084112	vz : 0.000000	vr : -0.037676
+
+ID : 213	Degree : 6.182930
+Image Center Point : (321, 181)	Marker Point : (353, 170)
+vx : 0.060773	vy : -0.099688	vz : 0.000000	vr : -0.048089
+
+ID : 213	Degree : 11.402494
+Image Center Point : (321, 181)	Marker Point : (345, 183)
+vx : -0.011050	vy : -0.074766	vz : 0.000000	vr : -0.088686
+
+ID : 213	Degree : 14.839939
+Image Center Point : (321, 181)	Marker Point : (335, 196)
+vx : -0.082873	vy : -0.043614	vz : 0.000000	vr : -0.115422
+
+ID : 213	Degree : 17.835015
+Image Center Point : (321, 181)	Marker Point : (329, 184)
+vx : -0.016575	vy : -0.024922	vz : 0.000000	vr : -0.138717
+
+ID : 213	Degree : 20.179459
+Image Center Point : (321, 181)	Marker Point : (315, 181)
+vx : -0.000000	vy : 0.018692	vz : 0.000000	vr : -0.156951
+
+ID : 213	Degree : 22.056434
+Image Center Point : (321, 181)	Marker Point : (321, 180)
+vx : 0.000000	vy : -0.000000	vz : 0.000000	vr : -0.171550
+
+ID : 213	Degree : 19.108986
+Image Center Point : (321, 181)	Marker Point : (326, 171)
+vx : 0.055249	vy : -0.015576	vz : 0.000000	vr : -0.148625
+
+ID : 213	Degree : 14.484734
+Image Center Point : (321, 181)	Marker Point : (361, 175)
+vx : 0.033149	vy : -0.124611	vz : 0.000000	vr : -0.112659
+
+ID : 213	Degree : 11.040940
+Image Center Point : (321, 181)	Marker Point : (362, 181)
+vx : -0.000000	vy : -0.127726	vz : 0.000000	vr : -0.085874
+
+ID : 213	Degree : 3.661936
+Image Center Point : (321, 181)	Marker Point : (379, 172)
+vx : 0.049724	vy : -0.180685	vz : 0.000000	vr : -0.028482
+
+ID : 213	Degree : 87.377599
+Image Center Point : (321, 181)	Marker Point : (372, 167)
+vx : 0.077348	vy : -0.158879	vz : 0.000000	vr : 0.020396
+
+ID : 213	Degree : 80.823797
+Image Center Point : (321, 181)	Marker Point : (344, 162)
+vx : 0.104972	vy : -0.071651	vz : 0.000000	vr : 0.071370
+
+ID : 213	Degree : 76.062203
+Image Center Point : (321, 181)	Marker Point : (301, 152)
+vx : 0.160221	vy : 0.062305	vz : 0.000000	vr : 0.108405
+
+ID : 213	Degree : 74.357754
+Image Center Point : (321, 181)	Marker Point : (301, 155)
+vx : 0.143646	vy : 0.062305	vz : 0.000000	vr : 0.121662
+
+ID : 213	Degree : 70.155372
+Image Center Point : (321, 181)	Marker Point : (278, 172)
+vx : 0.049724	vy : 0.133956	vz : 0.000000	vr : 0.154347
+
+ID : 213	Degree : 68.349567
+Image Center Point : (321, 181)	Marker Point : (268, 166)
+vx : 0.082873	vy : 0.165109	vz : 0.000000	vr : 0.168392
+
+ID : 213	Degree : 66.854217
+Image Center Point : (321, 181)	Marker Point : (270, 174)
+vx : 0.038674	vy : 0.158879	vz : 0.000000	vr : 0.180023
+
+ID : 213	Degree : 65.056095
+Image Center Point : (321, 181)	Marker Point : (273, 176)
+vx : 0.027624	vy : 0.149533	vz : 0.000000	vr : 0.194008
+
+ID : 213	Degree : 67.902108
+Image Center Point : (321, 181)	Marker Point : (297, 157)
+vx : 0.132597	vy : 0.074766	vz : 0.000000	vr : 0.171872
+
+ID : 213	Degree : 77.137249
+Image Center Point : (321, 181)	Marker Point : (279, 141)
+vx : 0.220994	vy : 0.130841	vz : 0.000000	vr : 0.100044
+
+ID : 213	Degree : 81.131737
+Image Center Point : (321, 181)	Marker Point : (305, 143)
+vx : 0.209945	vy : 0.049844	vz : 0.000000	vr : 0.068975
+
+ID : 213	Degree : 86.478547
+Image Center Point : (321, 181)	Marker Point : (334, 143)
+vx : 0.209945	vy : -0.040498	vz : 0.000000	vr : 0.027389
+
+ID : 213	Degree : 6.566299
+Image Center Point : (321, 181)	Marker Point : (310, 120)
+vx : 0.337017	vy : 0.034268	vz : 0.000000	vr : -0.051071
+
+ID : 213	Degree : 13.392498
+Image Center Point : (321, 181)	Marker Point : (339, 130)
+vx : 0.281768	vy : -0.056075	vz : 0.000000	vr : -0.104164
+
+ID : 213	Degree : 15.642246
+Image Center Point : (321, 181)	Marker Point : (351, 146)
+vx : 0.193370	vy : -0.093458	vz : 0.000000	vr : -0.121662
+
